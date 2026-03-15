@@ -1,4 +1,4 @@
-# 🧠 Intelligence Delivery Network (IDN)
+# 🧠 Intelligence Delivery Network (IDN) ==Development on Hold== see [LegionForge](https://github.com/jp-cruz/LegionForge) or https://legionforge.org
 https://github.com/jp-cruz/Intelligence-Delivery-Network
 > *"CDN for Intelligence" — Route AI workloads to the right compute tier based on what the request actually needs.*
 
